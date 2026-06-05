@@ -34,8 +34,6 @@ Business Intelligence • Performance Analysis • Business Requirements Mapping
 
 ## 🚀 Featured Power BI Projects
 
----
-
 ### 🔄 CI Flow Dashboard
 
 Operational workflow and process performance monitoring.
