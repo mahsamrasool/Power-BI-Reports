@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahsam Rasool
 
-## 💼 Senior Power BI Developer | Business Intelligence Specialist
+## 💼 Power BI Developer | Business Intelligence Specialist
 
 Power BI Developer with 3.5+ years of experience in designing and delivering enterprise-grade dashboards, reports, and business intelligence solutions. I specialize in transforming complex datasets into meaningful insights using **Power BI, DAX, Power Query, SQL, and advanced data modeling techniques**.
 
@@ -16,11 +16,11 @@ Power BI • Excel • Data Visualization • Dashboard Design
 
 ### 🧮 Data & Querying
 
-SQL • DAX • Power Query (M Language)
+SQL • DAX • Power Query 
 
 ### 🏗️ Data Engineering
 
-Data Modeling • ETL Pipelines • Data Transformation • KPI Design
+Data Modeling • Data Transformation • KPI Design
 
 ### ⚙️ Power BI Services
 
