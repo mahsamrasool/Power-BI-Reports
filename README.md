@@ -84,12 +84,21 @@ Patient and clinical performance analysis for healthcare decision-making.
 
 ---
 
+## 👥 Human Resource Dashboard
+
+* Employee performance and workforce analytics
+* Recruitment, onboarding, and retention monitoring
+* Attendance, leave, and productivity tracking
+* HR KPI measurement and workforce planning
+* Interactive reporting for talent management and decision-making
+
 ## 📊 Impact Summary
 
 * Built enterprise-grade BI reporting systems
 * Improved decision-making through KPI dashboards
 * Delivered automated reporting solutions
 * Enabled real-time business insights for stakeholders
+🔗 **Live Report:** [View Clinical Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWQzOGViODktZTEyNy00NDI5LTllZWQtOWM0OTViZjJjYWY0IiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
 
 ---
 
