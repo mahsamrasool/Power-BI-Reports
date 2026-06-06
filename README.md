@@ -91,6 +91,9 @@ Patient and clinical performance analysis for healthcare decision-making.
 * Attendance, leave, and productivity tracking
 * HR KPI measurement and workforce planning
 * Interactive reporting for talent management and decision-making
+🔗 **Live Report:** [View Clinical Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWQzOGViODktZTEyNy00NDI5LTllZWQtOWM0OTViZjJjYWY0IiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
+
+---
 
 ## 📊 Impact Summary
 
@@ -98,7 +101,6 @@ Patient and clinical performance analysis for healthcare decision-making.
 * Improved decision-making through KPI dashboards
 * Delivered automated reporting solutions
 * Enabled real-time business insights for stakeholders
-🔗 **Live Report:** [View Clinical Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWQzOGViODktZTEyNy00NDI5LTllZWQtOWM0OTViZjJjYWY0IiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
 
 ---
 
