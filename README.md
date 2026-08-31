@@ -2,7 +2,7 @@
 
 ## 💼 Power BI Developer | Business Intelligence Specialist
 
-Power BI Developer with 3.5+ years of experience in designing and delivering enterprise-grade dashboards, reports, and business intelligence solutions. I specialize in transforming complex datasets into meaningful insights using **Power BI, DAX, Power Query, SQL, and advanced data modeling techniques**.
+Power BI Developer with 4 years of experience in designing and delivering enterprise-grade dashboards, reports, and business intelligence solutions. I specialize in transforming complex datasets into meaningful insights using **Power BI, DAX, Power Query, SQL, and advanced data modeling techniques**.
 
 I build scalable BI solutions that help organizations monitor KPIs, improve decision-making, optimize operations, and drive data-driven business performance across **healthcare, HR, sales, finance, and operations domains**.
 
@@ -33,6 +33,21 @@ Business Intelligence • Performance Analysis • Business Requirements Mapping
 ---
 
 ## 🚀 Featured Power BI Projects
+
+### 📊 Task Management Dashboard
+
+Interactive task monitoring and workflow performance dashboard built using Power BI.
+
+* Dynamic Group, Plan, Bucket, User & Department filtering
+* Task progress and completion tracking
+* Bucket-wise task performance analysis
+* User-wise task workload monitoring
+* Overdue task identification
+* Completion percentage tracking
+* KPI-driven operational reporting
+* Interactive HTML-based dashboard visuals
+
+🔗 **Live Report:** [View Task Management Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzQ2ODNlNzUtNWY1Ny00Mzk5LWJkY2QtMWM0ZTZjMGJlYzk2IiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
 
 ### 🔄 CI Flow Dashboard
 
