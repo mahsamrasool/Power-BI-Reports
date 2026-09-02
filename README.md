@@ -2,7 +2,7 @@
 
 ## 💼 Power BI Developer | Business Intelligence Specialist
 
-Power BI Developer with 4 years of experience in designing and delivering enterprise-grade dashboards, reports, and business intelligence solutions. I specialize in transforming complex datasets into meaningful insights using **Power BI, DAX, Power Query, SQL, and advanced data modeling techniques**.
+Power BI Developer with 3.5 years of experience in designing and delivering enterprise-grade dashboards, reports, and business intelligence solutions. I specialize in transforming complex datasets into meaningful insights using **Power BI, DAX, Power Query, SQL, and advanced data modeling techniques**.
 
 I build scalable BI solutions that help organizations monitor KPIs, improve decision-making, optimize operations, and drive data-driven business performance across **healthcare, HR, sales, finance, and operations domains**.
 
