@@ -49,16 +49,17 @@ Interactive task monitoring and workflow performance dashboard built using Power
 
 🔗 **Live Report:** [View Task Management Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzQ2ODNlNzUtNWY1Ny00Mzk5LWJkY2QtMWM0ZTZjMGJlYzk2IiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
 
-### 🔄 CI Flow Dashboard
 
-Operational workflow and process performance monitoring.
+### 📊 Aprl Flow Dashboard
 
-* Process flow analysis
-* Bottleneck identification
-* Workflow efficiency tracking
-* KPI-driven operational reporting
+Monthly operational performance & trend analysis.
 
-🔗 **Live Report:** [View CI Flow Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmZkNTc4MTgtNmE0YS00ZWNmLWEyNjEtM2Q5YjI3NzZhYTM5IiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
+* Workflow tracking
+* KPI measurement
+* Trend & performance analysis
+* Process optimization insights
+
+🔗 **Live Report:** [View Aprl Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWZhODFjNmEtYWU3OS00YzQ3LTljNmItZjVhMjAwZGZlOTdjIiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
 
 ---
 ### 📈 Opportunity Analysis Dashboard
@@ -74,18 +75,6 @@ Sales and business growth analytics dashboard.
 
 ---
 
-### 📊 Aprl Flow Dashboard
-
-Monthly operational performance & trend analysis.
-
-* Workflow tracking
-* KPI measurement
-* Trend & performance analysis
-* Process optimization insights
-
-🔗 **Live Report:** [View Aprl Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDNjMmNmYzgtNjdlMi00YjdjLWEwMzgtYjNhNWEyZjZiYzA5IiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
-
----
 ### 🏥 Clinical Report Dashboard
 
 Patient and clinical performance analysis for healthcare decision-making.
