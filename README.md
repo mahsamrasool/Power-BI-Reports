@@ -50,7 +50,7 @@ Interactive textile manufacturing operations dashboard built using Power BI.
 * Custom HTML/CSS dashboard visuals
 * Dark and Light mode functionality
 
-🔗 **Live Report:** [View Task Management Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDM1ZjVjZTktZWNhMC00OGEyLWE4MzktODEzZDYwNzcyMjFiIiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
+🔗 **Live Report:** [View Textile Manufacturing Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDM1ZjVjZTktZWNhMC00OGEyLWE4MzktODEzZDYwNzcyMjFiIiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
 
 ---
 
@@ -71,7 +71,7 @@ Interactive financial performance and budget analysis dashboard built using Powe
 * Custom HTML-based dashboard visuals
 * Interactive multi-page dashboard navigation
 
-🔗 **Live Report:** [View Opportunity Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U5ZWIyMTAtNDAzNC00N2IzLWI0NzYtYWI2ZjZjMTEzZWVhIiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
+🔗 **Live Report:** [View Finance & Budget Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U5ZWIyMTAtNDAzNC00N2IzLWI0NzYtYWI2ZjZjMTEzZWVhIiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
 
 ---
 
