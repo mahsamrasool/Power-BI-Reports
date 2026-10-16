@@ -62,25 +62,10 @@ A financial intelligence dashboard for analyzing profitability, budget performan
 
 **Live Dashboard:** [View Finance & Budget Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U5ZWIyMTAtNDAzNC00N2IzLWI0NzYtYWI2ZjZjMTEzZWVhIiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
 
----
-
-### 03. Opportunity Analysis Dashboard
-**Sales Analytics | Pipeline Management | Growth Insights**
-
-An interactive sales analytics solution for monitoring opportunity pipelines, evaluating conversion performance, and identifying business growth opportunities.
-
-- Track sales opportunities and pipeline performance.
-- Analyze revenue trends and conversion metrics.
-- Evaluate sales KPIs and business performance.
-- Identify market trends and potential growth areas.
-
-**Technologies:** Power BI, DAX, Data Visualization
-
-**Live Dashboard:** [View Opportunity Analysis Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiNmQ3ZWZjZGEtMTBhNy00ZGUwLWE4MGMtNDE4YzNhZGMxZmVmIiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
 
 ---
 
-### 04. Clinical Reporting Dashboard
+### 03. Clinical Reporting Dashboard
 **Healthcare Analytics | Clinical Outcomes | Performance Monitoring**
 
 A healthcare reporting solution designed to support clinical performance analysis and data-driven healthcare decisions.
@@ -96,7 +81,7 @@ A healthcare reporting solution designed to support clinical performance analysi
 
 ---
 
-### 05. Human Resources Dashboard
+### 04. Human Resources Dashboard
 **Workforce Analytics | Recruitment | Employee Performance**
 
 An HR analytics dashboard designed to provide visibility into workforce performance, employee lifecycle metrics, and organizational productivity.
