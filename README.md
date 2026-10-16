@@ -1,136 +1,134 @@
-# 👋 Hi, I'm Mahsam Rasool
+# Mahsam Rasool
+### Power BI Developer | Business Intelligence Specialist
 
-## 💼 Power BI Developer | Business Intelligence Specialist
+**Transforming complex data into actionable business insights.**
 
-Power BI Developer with 3.5 years of experience in designing and delivering enterprise-grade dashboards, reports, and business intelligence solutions. I specialize in transforming complex datasets into meaningful insights using **Power BI, DAX, Power Query, SQL, and advanced data modeling techniques**.
+Power BI Developer with **3.5 years of experience** in developing interactive dashboards, enterprise reporting solutions, and data-driven analytics. Specialized in **Power BI, DAX, Power Query, SQL, and data modeling**, with a focus on building scalable BI solutions that improve visibility, optimize performance, and support strategic decision-making.
 
-I build scalable BI solutions that help organizations monitor KPIs, improve decision-making, optimize operations, and drive data-driven business performance across **healthcare, HR, sales, finance, and operations domains**.
-
----
-
-## 🧠 Technical Expertise
-
-### 📊 BI & Visualization
-
-Power BI • Excel • Data Visualization • Dashboard Design
-
-### 🧮 Data & Querying
-
-SQL • DAX • Power Query
-
-### 🏗️ Data Engineering
-
-Data Modeling • Data Transformation • KPI Design
-
-### ⚙️ Power BI Services
-
-Power BI Service • Gateway • Row-Level Security (RLS) • Scheduled Refresh
-
-### 📈 Reporting & Analytics
-
-Business Intelligence • Performance Analysis • Business Requirements Mapping
+Experienced in delivering analytics solutions across **manufacturing, finance, sales, healthcare, and human resources**, translating business requirements into meaningful KPIs and intuitive reporting experiences.
 
 ---
 
-## 🚀 Featured Power BI Projects
+## Technical Expertise
 
-### 🏭 Textile Manufacturing Dashboard
-
-Interactive textile manufacturing operations dashboard built using Power BI.
-
-* Production output and actual vs. planned production analysis
-* Monthly production trend analysis
-* Department-wise and product-wise production monitoring
-* Machine utilization and plan attainment tracking
-* Quality KPI monitoring (First Pass Quality, Defect Rate & On-Time Delivery)
-* Cost per unit, energy intensity, and water consumption analysis
-* Production line performance analysis
-* KPI scorecard and target achievement tracking
-* Interactive Year, Month, Department, Product, and Production Line filtering
-* Custom HTML/CSS dashboard visuals
-* Dark and Light mode functionality
-
-🔗 **Live Report:** [View Textile Manufacturing Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDM1ZjVjZTktZWNhMC00OGEyLWE4MzktODEzZDYwNzcyMjFiIiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
+| Category | Skills |
+|---|---|
+| **Business Intelligence** | Power BI, Power BI Service, Excel, Dashboard Development |
+| **Data & Analytics** | SQL, DAX, Power Query, KPI Development |
+| **Data Engineering** | Data Transformation, Data Modeling, Data Relationships |
+| **Power BI Administration** | Gateway Configuration, Scheduled Refresh, Row-Level Security (RLS) |
+| **Reporting & Visualization** | Interactive Dashboards, Custom HTML/CSS Visuals, Drill-Through Analysis |
+| **Business Analytics** | Performance Monitoring, Variance Analysis, Forecasting, Business Requirements Mapping |
 
 ---
 
-### 💰 Finance & Budget Command Center
+## Featured Projects
 
-Interactive financial performance and budget analysis dashboard built using Power BI.
+### 01. Textile Manufacturing Dashboard
+**Production Analytics | Operational Excellence | KPI Monitoring**
 
-* Revenue, profit, COGS, and profit margin analysis
-* Actual revenue vs. simulated budget comparison
-* Budget variance and budget attainment tracking
-* Country-wise revenue and profitability analysis
-* Product-wise profit and unit economics analysis
-* Segment-wise financial performance analysis
-* Revenue forecasting with Conservative, Base, and Optimistic scenarios
-* Financial KPI cards and performance matrices
-* DAX measures and calculated columns for financial analysis
-* Date table implementation and Year-over-Year (YoY) analysis
-* Custom HTML-based dashboard visuals
-* Interactive multi-page dashboard navigation
+An interactive manufacturing dashboard designed to monitor production performance, resource utilization, product quality, and operational efficiency.
 
-🔗 **Live Report:** [View Finance & Budget Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U5ZWIyMTAtNDAzNC00N2IzLWI0NzYtYWI2ZjZjMTEzZWVhIiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
+- Analyze actual vs. planned production and monthly output trends.
+- Monitor department, product, and production-line performance.
+- Track machine utilization and production plan attainment.
+- Evaluate quality KPIs, including First Pass Quality, defect rate, and on-time delivery.
+- Analyze cost per unit, energy intensity, and water consumption.
+- Implement interactive filters for year, month, department, product, and production line.
+- Develop custom HTML/CSS visuals with dark and light mode functionality.
+- Present operational KPIs through performance scorecards and target tracking.
 
----
+**Technologies:** Power BI, DAX, Power Query, HTML, CSS
 
-### 📈 Opportunity Analysis Dashboard
-
-Sales and business growth analytics dashboard.
-
-* Opportunity pipeline tracking
-* Revenue & conversion analysis
-* Market trend insights
-* KPI-driven sales reporting
-
-🔗 **Live Report:** [View Opportunity Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiNmQ3ZWZjZGEtMTBhNy00ZGUwLWE4MGMtNDE4Y2EzZGMxZmVmIiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
+**Live Dashboard:** [View Textile Manufacturing Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDM1ZjVjZTktZWNhMC00OGEyLWE4MzktODEzZDYwNzcyMjFiIiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
 
 ---
 
-### 🏥 Clinical Report Dashboard
+### 02. Finance & Budget Command Center
+**Financial Analytics | Budget Control | Revenue Forecasting**
 
-Patient and clinical performance analysis for healthcare decision-making.
+A financial intelligence dashboard for analyzing profitability, budget performance, revenue trends, and financial growth opportunities.
 
-* Treatment outcome monitoring
-* Healthcare KPI tracking
-* Interactive filtering & drill-through analysis
-* Data-driven clinical insights
+- Analyze revenue, profit, cost of goods sold (COGS), and profit margins.
+- Compare actual revenue against budget and evaluate budget variances.
+- Monitor budget attainment and financial performance by country.
+- Analyze product profitability, unit economics, and customer segments.
+- Evaluate conservative, base, and optimistic revenue forecast scenarios.
+- Implement financial KPI cards, performance matrices, and interactive navigation.
+- Develop DAX measures, calculated columns, and a dedicated date table.
+- Perform year-over-year (YoY) performance analysis.
 
-🔗 **Live Report:** [View Clinical Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzcwMWY2M2UtOWVhYi00MDQxLWIyNDctNDUwN2Q3NmVlOWI0IiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
+**Technologies:** Power BI, DAX, Power Query, HTML/CSS
 
----
-
-### 👥 Human Resource Dashboard
-
-Employee and workforce analytics dashboard for HR performance monitoring.
-
-* Employee performance and workforce analytics
-* Recruitment, onboarding, and retention monitoring
-* Attendance, leave, and productivity tracking
-* HR KPI measurement and workforce planning
-* Interactive reporting for talent management and decision-making
-
-🔗 **Live Report:** [View HR Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWQzOGViODktZTEyNy00NDI5LTllZWQtOWM0OTViZjJjYWY0IiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
+**Live Dashboard:** [View Finance & Budget Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U5ZWIyMTAtNDAzNC00N2IzLWI0NzYtYWI2ZjZjMTEzZWVhIiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
 
 ---
 
-## 📊 Impact Summary
+### 03. Opportunity Analysis Dashboard
+**Sales Analytics | Pipeline Management | Growth Insights**
 
-* Built enterprise-grade BI reporting systems
-* Improved decision-making through KPI dashboards
-* Delivered automated reporting solutions
-* Enabled data-driven business insights for stakeholders
-* Developed interactive dashboards across multiple business domains
-* Transformed complex data into actionable performance insights
+An interactive sales analytics solution for monitoring opportunity pipelines, evaluating conversion performance, and identifying business growth opportunities.
 
----
+- Track sales opportunities and pipeline performance.
+- Analyze revenue trends and conversion metrics.
+- Evaluate sales KPIs and business performance.
+- Identify market trends and potential growth areas.
 
-## 📫 Connect With Me
+**Technologies:** Power BI, DAX, Data Visualization
 
-* 🔗 LinkedIn: [www.linkedin.com/in/mahsamrasool13](https://www.linkedin.com/in/mahsamrasool13)
-* 📧 Email: [mahsamrasool13@gmail.com](mailto:mahsamrasool13@gmail.com)
+**Live Dashboard:** [View Opportunity Analysis Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiNmQ3ZWZjZGEtMTBhNy00ZGUwLWE4MGMtNDE4YzNhZGMxZmVmIiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
 
 ---
 
-⭐ *"Turning data into decisions that drive business growth."*
+### 04. Clinical Reporting Dashboard
+**Healthcare Analytics | Clinical Outcomes | Performance Monitoring**
+
+A healthcare reporting solution designed to support clinical performance analysis and data-driven healthcare decisions.
+
+- Monitor treatment outcomes and clinical performance indicators.
+- Track healthcare KPIs through interactive visual reports.
+- Enable detailed analysis through filtering and drill-through functionality.
+- Present clinical data in a structured, decision-support format.
+
+**Technologies:** Power BI, DAX, Power Query
+
+**Live Dashboard:** [View Clinical Reporting Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzcwMWY2M2UtOWVhYi00MDQxLWIyNDctNDUwN2Q3NmVlOWI0IiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
+
+---
+
+### 05. Human Resources Dashboard
+**Workforce Analytics | Recruitment | Employee Performance**
+
+An HR analytics dashboard designed to provide visibility into workforce performance, employee lifecycle metrics, and organizational productivity.
+
+- Analyze employee performance and workforce composition.
+- Monitor recruitment, onboarding, and employee retention.
+- Track attendance, leave, and workforce productivity.
+- Develop HR KPIs to support workforce planning.
+- Enable interactive reporting for talent management and HR decision-making.
+
+**Technologies:** Power BI, DAX, Power Query
+
+**Live Dashboard:** [View Human Resources Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWQzOGViODktZTEyNy00NDI5LTllZWQtOWM0OTViZjJjYWY0IiwidCI6ImJlZWM3ZThhLTVjMjMtNDlkMi1hMjcyLTEyYjcxZGM1NjFhYiIsImMiOjl9)
+
+---
+
+## Professional Focus
+
+- Developing scalable, interactive Power BI dashboards and reporting solutions.
+- Translating business requirements into actionable KPIs and analytical models.
+- Building optimized DAX measures and reliable data transformation workflows.
+- Implementing data models that support consistent, accurate reporting.
+- Configuring Power BI Service, gateways, scheduled refresh, and RLS.
+- Delivering intuitive visualizations that help stakeholders make informed decisions.
+
+---
+
+## Connect With Me
+
+**LinkedIn:** [Mahsam Rasool](https://www.linkedin.com/in/mahsamrasool13)  
+**Email:** [mahsamrasool13@gmail.com](mailto:mahsamrasool13@gmail.com)
+
+---
+
+*Turning data into decisions. Turning insights into impact.*
